@@ -1,8 +1,0 @@
-http:
-  port: "8081"
-  host: "0.0.0"
-  
-  
-autoDiscovery:
-  id: "17503900"
-  flowName: "bookmyshow-movies-sys-api-main"
